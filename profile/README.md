@@ -4,7 +4,7 @@
 
 **Secure Escrow for Safe Transactions**
 
-![Linq Banner](https://yourdomain.com/banner.png) <!-- add later -->
+![Linq - Secure Escrow Platform](https://avatars.githubusercontent.com/u/216423070?s=96&v=4)
 
 Hold funds securely until both parties are satisfied.  
 Zero risk for buyers. Zero worry for sellers.
@@ -19,7 +19,7 @@ Zero risk for buyers. Zero worry for sellers.
 If trust is part of your transaction — Linq is part of your stack.
 
 🔗 linqescrow.com (launching soon)  
-✉️ hello@linqescrow.com  
+✉️ contact@linqescrow.com  
 
 **Money should move when trust does.**
 
