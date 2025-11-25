@@ -28,7 +28,7 @@ Zero risk for buyers. Zero worry for sellers.
 If trust is part of your transaction — Linq is part of your stack.
 
 🔗 linqescrow.com (launching soon)  
-✉️ contact@linqescrow.com  
+✉️ contact@linq.com  
 
 **Money should move when trust does.**
 
